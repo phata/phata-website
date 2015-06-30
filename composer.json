@@ -1,5 +1,6 @@
 {
   "require" : {
+    "phata/widgetfy": "1.2",
     "silex/silex": "~1.1",
     "monolog/monolog": "~1.7"
   },
